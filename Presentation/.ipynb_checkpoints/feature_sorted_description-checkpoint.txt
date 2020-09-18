@@ -1,0 +1,143 @@
+Birthday :  1550560 # , %  100.0 - need to be transformed to age
+
+Sex :  1210486 , %  78.0677 - 1 - male, 0 - female
+
+Smoke_status :  989721 , %  63.8299 - 1 - smoking
+
+-------------------------TEST RESULTS:--------------------------
+WBC-Leukocytes :  52178 , %  3.3651
+HGB-Hemoglobin :  52178 , %  3.3651
+HCT- Hematocrit :  52177 , %  3.365
+K + (vein) :  35043 , %  2.26
+Glu (vein) :  34509 , %  2.2256
+Na + (vein) :  32488 , %  2.0952
+pH (vein) :  31317 , %  2.0197
+sO2 (vein) :  31317 , %  2.0197
+pCO2 (vein) :  31315 , %  2.0196
+ctHb (vein) :  31299 , %  2.0186
+pO2 (vein) :  31295 , %  2.0183
+HCO3- (P) (vein) :  31281 , %  2.0174
+Ca2 + ( vein) :  31271 , %  2.0168
+Hct (vein) :  31267 , %  2.0165
+Cl- (vein) :  31215 , %  2.0131
+Osmolarity (vein) :  31135 , %  2.008
+Lac (vein) :  30335 , %  1.9564
+ctO2 (vein) :  28863 , %  1.8615
+p50 (vein) :  23789 , %  1.5342
+Prothrombin (according to Quick) :  16407 , %  1.0581
+Prothrombin time :  16396 , %  1.0574
+ABE (vein) :  15712 , %  1.0133
+Glucose (syv.) :  15322 , %  0.9882
+-------------------------DISEASES------------------------------------------
+CAD :  14553 , %  0.9386
+DAD :  14448 , %  0.9318
+-------------------------HUMAN PARAMS-------------
+pulse :  13211 , %  0.852
+-------------------------TEST RESULTS:--------------------------
+CHD1 :  11886 , %  0.7666
+------DISEASES------------------------------------------
+AG :  11685 , %  0.7536
+CHF :  11207 , %  0.7228
+-------------------------TEST RESULTS:--------------------------
+C-reactive protein (CRP) amount. :  10781 , %  0.6953
+-------------------------DISEASES------------------------------------------
+atherosclerosis :  10028 , %  0.6467
+Angina :  7807 , %  0.5035
+-------------------------TEST RESULTS:--------------------------
+C-reactive protein (CRP) :  7422 , %  0.4787
+FMetHb (vein) :  7160 , %  0.4618
+ctBil (vein) :  6754 , %  0.4356
+HCO3- (P, st) (vein) :  5990 , %  0.3863
+FHHb (vein) :  5990 , %  0.3863
+F02Hb (vein) :  5990 , %  0.3863
+FCOHb (vein) :  5948 , %  0.3836
+-------------------------HUMAN PARAMS-------------
+Obesity :  5461 , %  0.3522
+neuropathy1 :  5347 , %  0.3448 ????????????????????????????????????????
+-------------------------TEST RESULTS:--------------------------
+Glucose :  5084 , %  0.3279
+Uric acid :  3824 , %  0.2466
+Coef. atherogenicity :  3260 , %  0.2102
+SBE (vein) :  2966 , %  0.1913
+HbA1c :  2915 , %  0.188
+-------------------------DISEASES------------------------------------------
+CKD :  2540 , %  0.1638
+AF :  2412 , %  0.1556
+-------------------------HUMAN PARAMS-------------
+weight :  2370 , %  0.1528
+-------------------------DISEASES------------------------------------------
+Disorders_ of_lipoprotein_ metabolism :  2260 , %  0.1458
+diabetic_nephropathy1 :  2047 , %  0.132 ????????????????????????????????????????
+COPD :  1916 , %  0.1236
+IM1 :  1859 , %  0.1199
+stroke1 :  1769 , %  0.1141
+-------------------------TEST RESULTS:--------------------------
+Troponin I :  1588 , %  0.1024
+Insulin_any :  1554 , %  0.1002
+-------------------------DISEASES------------------------------------------
+Acute_pulmonary_complications :  1460 , %  0.0942
+Anemia :  1351 , %  0.0871
+-------------------------TEST RESULTS:--------------------------
+Monocytes, eosinophils, basophils% :  1064 , %  0.0686
+Monocytes, eosinophils, basophils # :  1054 , %  0.068
+-------------------------DISEASES------------------------------------------
+diabetic_angiopathy_neph :  1025 , %  0.0661
+-------------------------TEST RESULTS:--------------------------
+Microalbumin urine :  908 , %  0.0586
+Insulin :  770 , %  0.0497
+Metanephrines urine :  700 , %  0.0451
+Microalbin (day urine) :  600 , %  0.0387
+-------------------------DISEASES------------------------------------------
+Hyperglycemia :  594 , %  0.0383
+-------------------------TEST RESULTS:--------------------------
+Capillary blood glucose :  560 , %  0.0361
+Biomaterial :  428 , %  0.0276
+diuretic :  377 , %  0.0243
+Albumin (electrophoresis) :  359 , %  0.0232
+Glucose (16 hours) :  346 , %  0.0223
+Glucose (12 hours) :  344 , %  0.0222
+FHbF (vein) :  332 , %  0.0214
+-------------------------DRUGS:--------------------------
+all_gipoglemic_drugs :  297 , %  0.0192
+beta_block :  280 , %  0.0181
+-------------------------TEST RESULTS:--------------------------
+Insulinum_glarginum :  220 , %  0.0142
+Protein (urine) amount. :  201 , %  0.013
+Long-acting_insulins :  185 , %  0.0119
+-------------------------DISEASES------------------------------------------
+Disorders _sleep :  180 , %  0.0116
+-------------------------DRUGS:--------------------------
+furosemide :  177 , %  0.0114
+metformin :  142 , %  0.0092
+bisoprolol :  129 , %  0.0083
+Metformin :  121 , %  0.0078
+metoprolol :  112 , %  0.0072
+-------------------------DISEASES------------------------------------------
+diabetic_retinopathy1 :  110 , %  0.0071
+OKS :  103 , %  0.0066
+-------------------------DRUGS:-------------------------- 
+spironolactone :  95 , %  0.0061
+vildagliptin :  85 , %  0.0055
+Insulinum_lisulinum_engineering_ :  73 , %  0.0047 ????
+Insulinum_lisprum :  67 , %  0.0043 ????
+----------------------------------------------------------There are drugs and some not so important params, I think we can remove it from the research
+urea :  63 , %  0.0041
+glimepiride :  59 , %  0.0038
+all_statins :  57 , %  0.0037
+atorvastatin :  49 , %  0.0032
+Insulinum_lisulinum_engineering :  48 , %  0.0031
+torasemide :  46 , %  0.003
+Ultrashort-acting_insulins :  44 , %  0.0028
+nebivolol :  35 , %  0.0023
+sotalol :  25 , %  0.0016
+gliclazide :  21 , %  0.0014
+height :  20 , %  0.0013
+bmi :  13 , %  0.0008
+Nitrites :  12 , %  0.0008
+Insulinum aspartum :  12 , %  0.0008
+hydrochlorothiazide :  9 , %  0.0006
+Harmful_life-image :  7 , %  0.0005
+simvastatin :  7 , %  0.0005
+indapamide :  7 , %  0.0005
+body_surface_area :  5 , %  0.0003
+rosuvastatin :  2 , %  0.0001

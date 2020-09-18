@@ -1,0 +1,33 @@
+--------all the features from the command below------------
+
+df_1 = df_1.drop(['E0061epizod', 'B0050.1', 'Birthday', 'EventCode'], axis=1)
+
+-------------------------DRUGS:--------------------------
+all_gipoglemic_drugs :  297 , %  0.0192
+beta_block :  280 , %  0.0181
+-------------------------DRUGS:-------------------------- 
+spironolactone :  95 , %  0.0061
+vildagliptin :  85 , %  0.0055
+Insulinum_lisulinum_engineering_ :  73 , %  0.0047 ????
+Insulinum_lisprum :  67 , %  0.0043 ????
+----------------------------------------------------------There are drugs and some not so important params, I think we can remove it from the research
+urea :  63 , %  0.0041
+glimepiride :  59 , %  0.0038
+all_statins :  57 , %  0.0037
+atorvastatin :  49 , %  0.0032
+Insulinum_lisulinum_engineering :  48 , %  0.0031
+torasemide :  46 , %  0.003
+Ultrashort-acting_insulins :  44 , %  0.0028
+nebivolol :  35 , %  0.0023
+sotalol :  25 , %  0.0016
+gliclazide :  21 , %  0.0014
+height :  20 , %  0.0013
+bmi :  13 , %  0.0008
+Nitrites :  12 , %  0.0008
+Insulinum aspartum :  12 , %  0.0008
+hydrochlorothiazide :  9 , %  0.0006
+Harmful_life-image :  7 , %  0.0005
+simvastatin :  7 , %  0.0005
+indapamide :  7 , %  0.0005
+body_surface_area :  5 , %  0.0003
+rosuvastatin :  2 , %  0.0001

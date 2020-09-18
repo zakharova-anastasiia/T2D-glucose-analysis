@@ -1,0 +1,9 @@
+'max_depth':
+'min_child_weight'
+'gamma'
+'n_estimators'
+
+'depth':
+'border_count'
+'n_estimators'
+

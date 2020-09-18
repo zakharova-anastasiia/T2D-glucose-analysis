@@ -1,0 +1,18 @@
+1) https://www.aging-us.com/article/102061/text?fbclid=IwAR2ypV3MHPOk5Oe2OvDkSiiYnLKkfFdNy3jzq3MlebMPuEc1kHNmPII_oSk
+   we may examine the fasting blood glucose level and hypertension risk in diabetes type 2 patients?
+   
+   
+2) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4944450/?fbclid=IwAR2ypV3MHPOk5Oe2OvDkSiiYnLKkfFdNy3jzq3MlebMPuEc1kHNmPII_oSk
+
+
+3) https://www.alliedacademies.org/articles/regression-analysis-for-testing-association-between-fasting-blood-sugarand-glycated-hemoglobin-in-diabetic-patients.html?fbclid=IwAR2ypV3MHPOk5Oe2OvDkSiiYnLKkfFdNy3jzq3MlebMPuEc1kHNmPII_oSk
+   We can test association between fasting blood sugar and other feature?
+   
+4) https://arxiv.org/pdf/1801.01204.pdf?fbclid=IwAR2ypV3MHPOk5Oe2OvDkSiiYnLKkfFdNy3jzq3MlebMPuEc1kHNmPII_oSk
+
+
+5) https://www.researchgate.net/publication/330423843_Multiple_linear_regression_model_analysis_in_predicting_fasting_blood_glucose_level_in_healthy_subjects
+   
+6) https://www.frontiersin.org/articles/10.3389/fgene.2018.00515/full - Glucose tolerance test for diabetes classification
+
+7) https://www.sciencedirect.com/science/article/pii/S2001037016300733
